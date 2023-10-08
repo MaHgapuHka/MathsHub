@@ -3,7 +3,7 @@
 
 ## Технологии
 - [aiogram](https://aiogram.dev/)
-- [schedule]
+- [asyncio](https://docs.python.org/3/library/asyncio.html#module-asyncio)
 
 ## Использование
 Бот @ed_challenge_bot (https://t.me/ed_challenge_bot)
